@@ -3,3 +3,4 @@ numpy
 pandas_datareader
 matplotlib
 seaborn
+bs4
